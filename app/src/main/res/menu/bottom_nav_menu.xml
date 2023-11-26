@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/history"
+        android:title="Historia"
+        android:icon="@drawable/history"/>
+    <item
+        android:id="@+id/training"
+        android:title="Trening"
+        android:icon="@drawable/training"/>
+    <item
+        android:id="@+id/exercise"
+        android:title="Ćwiczenia"
+        android:icon="@drawable/exercises"/>
+    <item
+        android:id="@+id/more"
+        android:title="Więcej"
+        android:icon="@drawable/more"/>
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GymHiro</string>
+
+
+    <string-array name="muscle_groups">
+        <item>Klatka piersiowa</item>
+        <item>Ręce</item>
+        <item>Plecy</item>
+        <item>Barki</item>
+        <item>Nogi</item>
+    </string-array>
+
+
+</resources>
